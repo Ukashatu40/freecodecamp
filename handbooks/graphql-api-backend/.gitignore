@@ -1,0 +1,12 @@
+/node_modules
+/.env
+/dist
+/build
+.DS_Store
+/logs
+*.log
+/coverage
+/.vscode
+.idea/
+*.sqlite
+*.sqlite3   
